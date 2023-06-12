@@ -1,2 +1,2 @@
 # PWC-Certificate
-This is the Certificate of Completion Power BI Virtual Case Experience 
+This contains the Certificate of Completion for my Tableau and Power BI Virtual Case Experience 
